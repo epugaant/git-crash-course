@@ -1,0 +1,2 @@
+I did not attend the course in 2017, but it gave me a good practice starting point, as other courses lack the presence of a dummy github repository.
+Thanks Rik!
